@@ -60,7 +60,6 @@ so that the future employer would notice my knowledge.
 ###### Level ######
   * Beginner 
 ***
-***
  
 ## About me ##
 At that time I was 32 years old.
