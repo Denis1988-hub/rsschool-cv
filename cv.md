@@ -55,6 +55,11 @@ so that the future employer would notice my knowledge.
 * Russian, Romanian, English  
 ###### Level ######
   * First two strong, english A1, but I'm trying to figure it out
+###### Programming Languages, Frameworks ######
+* HTML, CSS, Boostrap, JavaScript, React 
+###### Level ######
+  * Beginner 
+***
 ***
  
 ## About me ##
