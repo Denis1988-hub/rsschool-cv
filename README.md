@@ -1,1 +1,1 @@
-# rsschool-cv https://denis1988-hub.github.io/rsschool-cv/cv
+[CV](https://denis1988-hub.github.io/rsschool-cv/cv)
