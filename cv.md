@@ -85,4 +85,10 @@ passing the first year exams with excellent marks, I received an invitation to w
 At the moment, there are no hobbies, except for everyday life and study, but I am not the only one, every
 student experiences this.
 I am optimistic about the future, I believe that I can get a position as a developer,
-thereby improving my quality of life and meeting your daily needs.             
+thereby improving my quality of life and meeting your daily needs.
+
+###### About IT ######
+Why did I choose THIS?
+First, I loved computers for a very long time.
+Until the age of 30, the goal was not to change your profession, my environment changed and sooner or later you will
+begin to acquire other people's habits.           
