@@ -43,22 +43,38 @@ so that the future employer would notice my knowledge.
 
 ## Skills ##
 ###### Software Knowledge ######
-* Windows, 1C, and lot of standart office software 
+
+* Windows, 1C, and lot of standart office software
+
 ###### Level ######
+
   * I usually solve all problems what arises
+  
 ###### Communicative ######
-* I acquired this skill through my previous work in sales  
+
+* I acquired this skill through my previous work in sales
+  
 ###### Level ######
+
   * Depends on the environment and theme,
     not quite commercial, but good as a colleague
+    
 ###### Languages ######
-* Russian, Romanian, English  
+
+* Russian, Romanian, English
+  
 ###### Level ######
+
   * First two strong, english A1, but I'm trying to figure it out
+  
 ###### Programming Languages, Frameworks ######
-* HTML, CSS, Boostrap, JavaScript, React 
+
+* HTML, CSS, Boostrap, JavaScript, React
+ 
 ###### Level ######
+
   * Beginner 
+  
 ***
  
 ## About me ##
