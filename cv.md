@@ -90,5 +90,5 @@ thereby improving my quality of life and meeting your daily needs.
 ###### About IT ######
 Why did I choose THIS?
 First, I loved computers for a very long time.
-Until the age of 30, the goal was not to change your profession, my environment changed and sooner or later you will
+Until the age of 30, the goal was not to change profession, my environment changed and sooner or later you will
 begin to acquire other people's habits.           
