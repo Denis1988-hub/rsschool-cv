@@ -22,57 +22,57 @@ so that the future employer would notice my knowledge.
 ## Education ##
 ###### 1997-2006 ######
    * Romanian school nr.27 Chisinau
+   
 ###### 2015-2016 ######
    * Accounting courses
+   
 ###### 2019-present ######
    * IT courses at Institutul de Formare Continua
+   
 ***
 
 ## Experience ##
 ###### 2013-2015 ######
 *    Autoparts seller at SRL "OLGA-FURMANOV"
+
 ###### 2016-2017 ######
 *    Accounting assistant at SRL "KURILOV-PLUS"
+
 ###### 2017-2019 ######
 *    Sale manager at SRL [Catol-lux](http://https://catollux.md)
+
 ###### 2020-present ######
 *    AnyKey at [Institutul de Formare Continua](http://www.iic.md)
+
 ###### 2020-present ######
 *    AnyKey at [IT-STEP Academy](https://itstep.org)
+
 ***
 
 ## Skills ##
 ###### Software Knowledge ######
-
 * Windows, 1C, and lot of standart office software
 
 ###### Level ######
-
   * I usually solve all problems what arises
   
 ###### Communicative ######
-
 * I acquired this skill through my previous work in sales
   
 ###### Level ######
-
   * Depends on the environment and theme,
     not quite commercial, but good as a colleague
     
 ###### Languages ######
-
 * Russian, Romanian, English
   
 ###### Level ######
-
   * First two strong, english A1, but I'm trying to figure it out
   
 ###### Programming Languages, Frameworks ######
-
 * HTML, CSS, Boostrap, JavaScript, React
  
 ###### Level ######
-
   * Beginner 
   
 ***
